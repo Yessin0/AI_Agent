@@ -1,9 +1,7 @@
 langchain
-langchain-community
-langchain-core
 langchain-groq
+langchain-community
 tavily-python
-python-dotenv
-streamlit
 arxiv
-requests
+streamlit
+python-dotenv
