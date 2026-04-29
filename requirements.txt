@@ -1,7 +1,23 @@
-langchain
-langchain-groq
-langchain-community
-tavily-python
-arxiv
-streamlit
-python-dotenv
+
+# Core LLM & Agent
+langchain==0.3.25
+langchain-core==0.3.84
+langchain-community==0.3.23
+langchain-groq==0.3.2
+langchain-text-splitters==0.3.11
+langgraph==0.3.21
+
+# LLM Provider
+groq==0.37.1
+
+# Tools
+tavily-python==0.7.24
+arxiv==3.0.0
+
+# UI
+streamlit==1.41.0
+
+# Utilities
+python-dotenv==1.2.2
+requests==2.33.1
+pydantic==2.10.6
